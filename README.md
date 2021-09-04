@@ -4,6 +4,9 @@
 
 Raspberry Pi 4 Model B
 
+- Copy Paste the code in the terminal, or
+- Run the shell .sh script
+
 ```
 sudo apt update
 sudo apt install cmake build-essential pkg-config git
